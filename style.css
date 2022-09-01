@@ -203,9 +203,9 @@ h3 {
 
   box-shadow: 2px 3px 20px rgb(153, 66, 66), 0 0 125px rgb(99, 1, 1) inset;
   border: 0;
-  transform: rotate(-12deg);
+  /* transform: rotate(-12deg); */
   font-size: 1em;
-  font-family: "Caveat", sans-serif;
+  font-family: Pirata One, "Caveat", sans-serif;
   opacity: 1;
   color: coral;
 }
@@ -232,8 +232,12 @@ select {
   margin: 0;
   height: 1.5em;
   font-size: 1em;
+  font-family: Pirata One, "Caveat", sans-serif;
 }
 
 /* .for {
   margin-top: 0;
 } */
+
+#select {
+}
