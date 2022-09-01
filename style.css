@@ -127,6 +127,7 @@ body {
   /* filter: url(#wavy2); */
   opacity: 0.85;
   /* display: flex; */
+  padding-top: 10%;
 }
 
 .formcontrol {
@@ -146,7 +147,8 @@ h3 {
   font-size: 1.1em;
   margin: 1em;
   /* margin-bottom: 1.3em; */
-  /* font-style: italic; */
+  font-weight: 400;
+  font-style: italic;
 }
 
 h3 {
@@ -238,6 +240,3 @@ select {
 /* .for {
   margin-top: 0;
 } */
-
-#select {
-}
